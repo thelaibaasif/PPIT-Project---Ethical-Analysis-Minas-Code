@@ -7,11 +7,11 @@ This repository contains a detailed analysis of the ethical practices and operat
 - **Presentations**: Visual summaries of the analysis.
 - **Logs**: Work division and project tracking.
 
-## Team Members
-- **Maham Khurram** (21i-0681): Drafted introduction, ethical framework, and conclusion.
-- **Saira Somal** (21i-0620): Focused on legal aspects and IP management.
-- **Laiba Asif** (21i-2560): Analyzed organizational structure and revenue models.
-- **Saifullah Rizwan** (21i-0830): Researched ethical theories and practical case studies.
+## Team Work
+- Drafted introduction, ethical framework, and conclusion.
+- Focused on legal aspects and IP management.
+- Analyzed organizational structure and revenue models.
+- Researched ethical theories and practical case studies.
 
 ## Key Insights
 - Strong adherence to ACM/IEEE ethical standards.
